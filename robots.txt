@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /frames/
+Disallow: /embed/
 Disallow: /category.json
 Disallow: /games.json
