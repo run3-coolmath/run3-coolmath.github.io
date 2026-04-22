@@ -37,7 +37,7 @@
 [data-main-module-item-81="dark"] .core-zone-group-62 { display: block; }
 .web-block-group-12 p { color: var(--container-mut); line-height: 1.6; margin: 0; }
 .base-layout-item-88 a:hover { color: var(--container-txt); background: rgba(128,128,128,0.1); }
-.ui-block-outer-32 { background: var(--container-pnl); border-bottom: 2px solid var(--container-acc); padding: 0 30px; display: flex; align-items: center; justify-content: space-between; height: 70px; box-shadow: 0 4px 15px var(--container-glw); flex-shrink: 0; transition: background 0.3s, border-color 0.3s; position: relative; }
+.ui-block-outer-32 { background: var(--container-pnl); border-bottom: 2px solid var(--container-acc); padding: 0 30px; display: flex; align-items: center; justify-content: space-between; height: 70px; box-shadow: 0 4px 15px var(--container-glw); flex-shrink: 0; transition: background 0.3s, border-color 0.3s; position: relative; z-index: 1000; }
 .view-section-component-33 svg { width: 22px; height: 22px; fill: currentColor; pointer-events: none; }
 .ui-wrapper-element-41 { position: absolute; top: -40px; right: 0; font-size: 40px; color: #fff; background: none; border: none; cursor: pointer; z-index: 10001; transition: 0.2s; line-height: 1; }
 @keyframes kenBurns { 0% { transform: scale(1); } 100% { transform: scale(1.15); } }
