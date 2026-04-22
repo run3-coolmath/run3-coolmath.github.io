@@ -1,0 +1,21 @@
+google.com, pub-7305083056611385, DIRECT, f08c47fec0942fa0
+
+# validation-key: c973a3da5a-base-panel-outer-43
+
+# validation-key: 5ef05dce79-main-section-content-45
+# validation-key: 614485cff4-page-module-component-49
+
+# validation-key: a6ee94b9fe-app-layout-component-47
+# validation-key: fb5bc31dac-app-container-inner-65
+
+# validation-key: c4a0416ce5-page-box-inner-67
+
+# validation-key: 9fc413d7a0-view-box-inner-69
+# validation-key: 908a08d237-base-wrapper-outer-25
+# validation-key: 0f454dbc6c-ui-wrapper-outer-23
+
+# validation-key: 9a4b9e2b93-core-wrapper-component-89
+
+# validation-key: 3225f9d16a-view-module-component-33
+
+# validation-key: f49491cbbb-site-grid-group-37
